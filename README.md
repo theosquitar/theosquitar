@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Oscar Alhdhair Vasquez Roncal</h1>
 <h3 align="center">Soy Ingeniero de Software con Inteligencia Artificial</h3>
 
-- 🔭Me encuentro trabajando en el desarrollo de una aplicacion para una empresa privada, **Anonima**
+- 🔭Me encuentro trabajando como Desarrollador FullStack IA
 
 - 🌱 Me encuentro estudiando constantemente **Lenguajes,cursos y Frameworks**
 
